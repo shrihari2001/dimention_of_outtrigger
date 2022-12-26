@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(161, 180, 218);
+    color: rgb(255, 255, 255);
+    font-family: 'times new roman', Times, serif, Helvetica, sans-serif;
+    font-size: large;
+    
+
+}
+
+
+span{
+    color: red;
+}
+.wrapper{
+    position: absolute;
+    top: 62%;
+    left: 30%;
+    transform:translate(-50%, -50%);
+    padding: 10px;
+    width: 50%;
+    background: rgb(36, 125, 160);
+    border-radius: 20px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+input{
+    outline: none;
+    border: none;
+    padding: 7px;
+}
+button{
+    color: rgb(10, 10, 10);
+    padding: 10px;
+    border: 2px solid white;
+    background: rgb(248, 244, 244);
+    display: block;
+    margin-top: 10%;
+    cursor: pointer;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.photo{
+width:100%;
+margin-left: 1000px;
+margin-top: 150px;
+}
+.logo{
+    width:100%;
+    margin-left: 1px;
+    margin-top: -630px;
+}
