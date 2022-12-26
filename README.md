@@ -1,0 +1,1 @@
+# dimention_of_outtrigger
